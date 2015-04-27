@@ -5,6 +5,16 @@ Package.describe({
   git: 'https://github.com/jagi/meteor-astronomy.git'
 });
 
+Package.registerBuildPlugin({
+  name: 'compileSchemes',
+  use: ['underscore', 'minifiers', 'spacebars-compiler'],
+  sources: [
+    'lib/build/scan.js',
+    'lib/build/build.js',
+    'private/base.js'
+  ]
+});
+
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
 
