@@ -13,6 +13,8 @@ Package.onUse(function(api) {
   api.use('underscore');
   api.use('ejson');
   api.use('check');
+  api.use('ecmascript');
+  api.use('es5-shim');
 
   api.imply('mongo');
   api.imply('underscore');
