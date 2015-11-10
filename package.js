@@ -92,6 +92,12 @@ Package.onUse(function(api) {
     'lib/modules/fields/init_definition.js',
   ], ['client', 'server']);
 
+  // Relations module.
+  api.addFiles([
+    'lib/modules/relations/init_class.js',
+    'lib/modules/relations/init_definition.js',
+  ], ['client', 'server']);
+
   // Indexes module.
   api.addFiles([
     'lib/modules/indexes/init_class.js',
