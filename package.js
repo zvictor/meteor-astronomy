@@ -74,8 +74,6 @@ Package.onUse(function(api) {
     'lib/modules/fields/types/number_field.js',
     'lib/modules/fields/types/boolean_field.js',
     'lib/modules/fields/types/date_field.js',
-    'lib/modules/fields/types/object_field.js',
-    'lib/modules/fields/types/array_field.js',
     'lib/modules/fields/utils.js',
     'lib/modules/fields/modifiers.js',
     'lib/modules/fields/set_default.js',
