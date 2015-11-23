@@ -106,9 +106,9 @@ Package.onTest(function(api) {
     'zvictor:astronomy',
     'zvictor:astronomy-timestamp-behavior',
     'zvictor:astronomy-slug-behavior',
-    'jagi:astronomy-softremove-behavior',
-    'jagi:astronomy-validators',
-    'jagi:astronomy-simple-validators'
+    //'jagi:astronomy-softremove-behavior',
+    //'jagi:astronomy-validators',
+    //'jagi:astronomy-simple-validators'
   ]);
 
   api.addFiles('test/utils.js', ['client', 'server']);
