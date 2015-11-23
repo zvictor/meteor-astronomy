@@ -1,8 +1,8 @@
 Package.describe({
   summary: 'Model layer for Meteor',
   version: '1.2.3',
-  name: 'jagi:astronomy',
-  git: 'https://github.com/jagi/meteor-astronomy.git'
+  name: 'zvictor:astronomy',
+  git: 'https://github.com/zvictor/meteor-astronomy.git'
 });
 
 Package.onUse(function(api) {
@@ -103,9 +103,9 @@ Package.onTest(function(api) {
   api.use([
     'tinytest',
     'insecure',
-    'jagi:astronomy',
-    'jagi:astronomy-timestamp-behavior',
-    'jagi:astronomy-slug-behavior',
+    'zvictor:astronomy',
+    'zvictor:astronomy-timestamp-behavior',
+    'zvictor:astronomy-slug-behavior',
     'jagi:astronomy-softremove-behavior',
     'jagi:astronomy-validators',
     'jagi:astronomy-simple-validators'

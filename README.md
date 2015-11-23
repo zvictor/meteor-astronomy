@@ -1,3 +1,5 @@
+Fork from the original Astronomy! It adds [#197](https://github.com/jagi/meteor-astronomy/pull/197) and [#198](https://github.com/jagi/meteor-astronomy/pull/198).
+
 # Astronomy for Meteor
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jagi/meteor-astronomy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
