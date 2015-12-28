@@ -1,3 +1,21 @@
+# 1.2.10 (2015-12-23)
+
+- Get modifiers even if the field's value returned to the default value.
+
+# 1.2.9 (2015-12-22)
+
+- Clear unnecessary modifiers before calling the "getModified" method
+- Fix bug when getting modifiers of the document with the "\_id" field but without collection
+
+# 1.2.8 (2015-12-19)
+
+- Improve backward compatibility with 1.2.6
+- Don't get plain value when saving value of the "null" type field
+
+# 1.2.7 (2015-12-16)
+
+- Performance improvements
+
 # 1.2.6 (2015-12-02)
 
 - Fix a bug with modifiers when setting object using a reference
