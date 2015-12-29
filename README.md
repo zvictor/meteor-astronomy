@@ -1,4 +1,4 @@
-Fork from the original Astronomy! It adds [#197](https://github.com/jagi/meteor-astronomy/pull/197) and [#198](https://github.com/jagi/meteor-astronomy/pull/198).
+Fork from the original Astronomy! It adds/solves [#197](https://github.com/jagi/meteor-astronomy/pull/197), [#198](https://github.com/jagi/meteor-astronomy/pull/198) and [#205](https://github.com/jagi/meteor-astronomy/issues/205).
 
 # Astronomy for Meteor
 

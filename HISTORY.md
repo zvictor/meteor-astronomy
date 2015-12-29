@@ -1,3 +1,7 @@
+# 1.2.10_1 (2015-12-29)
+
+- Saves the `typeField` of inherited nested objects.
+
 # 1.2.10 (2015-12-23)
 
 - Get modifiers even if the field's value returned to the default value.

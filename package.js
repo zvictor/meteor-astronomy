@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Model layer for Meteor',
-  version: '1.2.10',
+  version: '1.2.10_1',
   name: 'zvictor:astronomy',
   git: 'https://github.com/zvictor/meteor-astronomy.git'
 });
